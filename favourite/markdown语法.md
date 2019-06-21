@@ -25,6 +25,7 @@
 *****
 
 # 五、图片
+语法：
 ![图片alt](图片地址 ''图片title'')
 
 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
@@ -33,4 +34,11 @@
 示例：
 ![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 
+# 六、超链接
+语法：
+[超链接名](超链接地址 "超链接title")
+title可加可不加
 
+示例：
+[简书](http://jianshu.com)
+[百度](http://baidu.com)
