@@ -9,13 +9,12 @@ facecolor:背景颜色
 edgecolor:边框颜色
 frameon:是否显示边框
 1.2例子
-【代码】：
-
+```
 import matplotlib.pyplot as plt
 fig=plt.figure(figsize=(4,3),facecolor='blue')
 plt.show()
 【运行结果】：
-
+```
 
 
 2.subplot--创建单个子图
