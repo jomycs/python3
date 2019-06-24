@@ -1,2 +1,3 @@
-matplotlib一.plt.figure语()---在plt中绘制一张图片
-（https://blog.csdn.net/C_chuxin/article/details/83994457）
+matplotlib 中的plt.figure()、plt.subplot()、plt.subplots()、add_subplots以及add_axes的使用
+
+matplotlib（https://blog.csdn.net/C_chuxin/article/details/83994457）
