@@ -33,7 +33,8 @@ DBSCAN   Parzen窗设计
 
 
 4、Python语言特点
-	
+   简单、性能不如C、java（核心处理部分用C）
+   关注算法
 
 
 
